@@ -6,7 +6,7 @@
 
 
 <aside>
-💡 Zum Workshop-Paper: https://doi.org/10.5281/zenodo.7715460](https://doi.org/10.5281/zenodo.7715460)
+💡 Zum Workshop-Paper: https://doi.org/10.5281/zenodo.7715460
 
 </aside>
 
