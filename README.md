@@ -27,7 +27,29 @@ Max. Teilnehmer*innenzahl: 15.
 
 Ein Beitrag zur 9. Tagung des Verbands "Digital Humanities im deutschsprachigen Raum" - DHd 2023 Open Humanities Open Culture.
 
-## Materialien & Unterlagen
+## Unterlagen & Materialien
+
+
+[01. Einführung](Workshopunterlagen/01_Einführung.md)
+
+[02. Modellierung](Workshopunterlagen/02_Modellierung.md)
+
+[03. Beleuchtung](Workshopunterlagen/03_Beleuchtung.md)
+
+[04. Material](Workshopunterlagen/04_Material.md)
+
+[05. Textur](Workshopunterlagen/05_Textur.md)
+
+[06. Gelände & Georeferenzierung](Workshopunterlagen/06_Gelände_Georeferenzierung.md)
+
+[07. Rendern](Workshopunterlagen/07_Rendern.md)
+
+[08. Animation](Workshopunterlagen/08_Animation.md)
+
+
+
+
+
 💡 Material: https://www.dropbox.com/scl/fo/ezng523ngss6d7gkhwbxt/h?dl=0&rlkey=17m0aqtucqnx26h9iu9qrphvl
 
 ## Team
