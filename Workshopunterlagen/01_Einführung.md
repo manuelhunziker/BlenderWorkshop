@@ -90,7 +90,7 @@ Wechseln mit **Tab**
 
 ## 5) Materialien
 
-1. Objekt auswahlen oder iiber Add > Mesh hinzufügen
+1. Objekt auswahlen oder über Add > Mesh hinzufügen
 2. Parameter einstellen
 
 ![Untitled](Abbildungen/Einfu%CC%88hrung%20dd188acea94a47a0a9e27667bd4938f0/Untitled%206.png)
