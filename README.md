@@ -6,26 +6,29 @@
 
 
 <aside>
-💡 Zum Workshop-Paper: https://doi.org/10.5281/zenodo.7715460
+Literatur: Hunziker, Manuel, von Pippich, Waltraud, & Rensinghoff, Berenike. (2023, March 10). 3D- und 4D-Modellierung in den Digital Humanities. DHd 2023 Open Humanities Open Culture. 9. Tagung des Verbands "Digital Humanities im deutschsprachigen Raum" (DHd 2023), Trier, Luxemburg. https://doi.org/10.5281/zenodo.7715460
 
 </aside>
 
-## Über den Workshop
+## Workshop
+
+Herrenhauszentrum des Ostseeraums, Universität Greifswald
+Caspar-David-Friedrich-Institut, Rubenowstr. 2b, Greifswald
+16.05.2023, 9.30–13.30, 14.30–17.00 Uhr
+
+Blender ist eine Open Source Software primär zur digitalen 3D-Rekonstruktion und -Modellierung. Der Workshop führt in die Grundfunktionen der 3D-Software Blender ein und berücksichtigt neben der 3D- auch deren Einsatz als 4D-Anwendung. Neben praktischen Hands-on Übungen und aufeinander aufbauenden Modulen für die ersten eigenen Schritte in der 3D-Modellierung digitaler Daten, finden auch Beiträge zur Theorie und Systematik von 3D- und 4D-Anwendungen und Besprechungen von Workflows disziplinspezifischer Forschungsfragen statt. 
 
 
-Blender ist eine Open Source Software primär zur digitalen 3D-Rekonstruktion und -Modellierung. Der zweitägige Workshop führt in die Grundfunktionen dieser 3D-Software Blender ein und berücksichtigt neben 3D- auch dessen Einsatz als 4D-Anwendung. Neben praktischen Hands-on Übungen und aufeinander aufbauenden Modulen für die ersten eigenen Schritte in der 3D-Modellierung digitaler Daten, finden auch Beiträge zur Theorie und Systematik von 3D- und 4D-Anwendungen und Besprechungen von Workflows disziplinspezifischer Forschungsfragen statt. 
+Programm:
 
-Zum Programm:
+Teil 1: 9.00–13.30 Uhr
+Grundlagen der digitalen 3D-Rekonstruktion, Modellierung, Rendering, 2D-/3D-Pläne und -Karten, Skalierung, Georeferenzierung
 
-Workshop-Tag 1: Grundlagen der digitalen 3D-Rekonstruktion, Modellierung, Rendering, 2D-/3D-Pläne und -Karten, Skalierung, Georeferenzierung. 
+Teil 2: 14.30–17.00 Uhr
+Modellierung von Architektur, Texturierung, Mapping von Bildern, Beleuchtungssituation, Animation, 4D-Funktionen, Schlussdiskussion 
 
-Workshop-Tag 2: Modellierung von Architektur, Texturierung, Mapping von Bildern, Beleuchtungssituation, Animation, 4D-Funktionen, Schlussdiskussion. 
+Hinweis: Der Workshop ist für sämtliche Fachgebiete der digitalen Geisteswissenschaften zu empfehlen. Vorkenntnisse sind nicht erforderlich. 
 
-An beiden Tagen finden Diskussionen und kritische Reflexion der Potenziale und Grenzen der erlernten Technologien für Forschungsfragen der Digital Humanities statt. Der Workshop ist für sämtliche Fachgebiete der digitalen Geisteswissenschaften zu empfehlen. Vorkenntnisse sind nicht erforderlich. 
-
-Max. Teilnehmer*innenzahl: 15. 
-
-Ein Beitrag zur 9. Tagung des Verbands "Digital Humanities im deutschsprachigen Raum" - DHd 2023 Open Humanities Open Culture.
 
 ## Unterlagen & Materialien
 
