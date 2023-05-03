@@ -13,7 +13,11 @@ Literatur: Hunziker, Manuel, von Pippich, Waltraud, & Rensinghoff, Berenike. (20
 ## Workshop
 
 Herrenhauszentrum des Ostseeraums, Universität Greifswald
-Caspar-David-Friedrich-Institut, Rubenowstr. 2b, Greifswald
+
+Caspar-David-Friedrich-Institut, Rubenowstr. 2b, 17489 Greifswald
+
+https://cdfi.uni-greifswald.de/kunstgeschichte/forschung/herrenhauszentrum-des-ostseeraums/
+
 16.05.2023, 9.30–13.30, 14.30–17.00 Uhr
 
 Blender ist eine Open Source Software primär zur digitalen 3D-Rekonstruktion und -Modellierung. Der Workshop führt in die Grundfunktionen der 3D-Software Blender ein und berücksichtigt neben der 3D- auch deren Einsatz als 4D-Anwendung. Neben praktischen Hands-on Übungen und aufeinander aufbauenden Modulen für die ersten eigenen Schritte in der 3D-Modellierung digitaler Daten, finden auch Beiträge zur Theorie und Systematik von 3D- und 4D-Anwendungen und Besprechungen von Workflows disziplinspezifischer Forschungsfragen statt. 
